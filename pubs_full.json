@@ -1,0 +1,287 @@
+[
+  {
+    "title": "Single neutral pion production by charged-current $\\bar{\\nu}_\\mu$ interactions on hydrocarbon at $\\langle E_\\nu \\rangle = $ 3.6 GeV",
+    "named_authors": "T. Le",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Physics Letters B 749, 130-136",
+    "year": 2015
+  },
+  {
+    "title": "Simulation needs and priorities of the Fermilab Intensity Frontier experiments",
+    "named_authors": "V. D. Elvira",
+    "extra_authors": "yes",
+    "how_published": "FERMILAB-TM-2608-CD",
+    "year": 2015
+  },
+  {
+    "title": "MINERvA neutrino detector response measured with test beam data",
+    "named_authors": "L. Aliaga",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Nucl. Inst. Meth.A 789 28-42",
+    "year": 2015
+  },
+  {
+    "title": "Measurement of muon plus proton final states in $\\nu_{\\mu}$ Interactions on Hydrocarbon at $<E_{\\nu}>$ = 4.2 GeV", 
+    "named_authors": "T. Walton",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. D 91, 071301",
+    "year": 2015
+  },
+  {
+    "title": "Measurement of Coherent Production of $\\pi^{\\pm}$ in Neutrino and Anti-Neutrino Beams on Carbon from $E_{\\nu}$ of 1.5 to 20 GeV",
+    "named_authors": "A. Higuera",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. Let. 113, 261802",
+    "year": 2014
+  },
+  {
+    "title": "Charged Pion Production in $\\nu_{\\mu}$ Interactions on Hydrocarbon at $<E_{\\nu}>$ = 4.0 GeV",
+    "named_authors": "B. Eberly",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "arXiv:1406.6415",
+    "year": 2014
+  },
+  {
+    "title": "Measurement of Ratios of $\\nu_{\\mu}$ Charged-Current Cross Sections on C, Fe, and Pb to CH at Neutrino Energies 2-20 GeV",
+    "named_authors": "B. G. Tice",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. Let. 112, 231801",
+    "year": 2014
+  },
+  {
+    "title": "The Long-Baseline Neutrino Experiment: Exploring Fundamental Symmetries of the Universe",
+    "named_authors": "C. Adams",
+    "extra_authors": "yes",
+    "collaboration": "The LBNE Collaboration",
+    "how_published": "arXiv:1307.7335 [hep-ex]",
+    "year": 2013
+  },
+  {
+    "title": "Design, Calibration, and Performance of the MINERvA Detector",
+    "named_authors": "L. Aliaga",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Nucl. Inst. Meth.A 743 130-159",
+    "year": 2014
+  },
+  {
+    "title": "Measurement of Muon Antineutrino Quasi-Elastic Scattering on a Hydrocarbon Target at $E_{\\nu}$ $\\sim$ 3.5 GeV",
+    "named_authors": "L. Fields",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. Lett. 111, 022501", 
+    "year": 2013
+  },
+  {
+    "title": "Measurement of Muon Neutrino Quasi-Elastic Scattering on a Hydrocarbon Target at $E_{\\nu}$ $\\sim$ 3.5 GeV",
+    "named_authors": "G. A. Fiorentini", 
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. Lett. 111, 022502",
+    "year": 2013
+  },
+  {
+    "title": "The MINER$\\nu$A Data Acquisition System and Infrastructure",
+    "named_authors": "G. N. Perdue",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Nucl. Inst. Meth.A 694 179-192",
+    "year": 2012,
+    "HEP_entry": "http://inspirehep.net/record/1184628"
+  },
+  {
+    "title": "Fundamental Physics at the Intensity Frontier",
+    "named_authors": "J. L. Hewett, H. Weerts, R. Brock, J. N. Butler, B. C. K. Casey, J. Collar, A. de Govea and R. Essig", 
+    "extra_authors": "yes",
+    "how_published": "arXiv:1205.2671 [hep-ex]",
+    "HEP_entry": "http://inspirehep.net/record/1114323"
+  },
+  {
+    "title": "Demonstration of Communication Using Neutrinos",
+    "named_authors": "D. D. Stancil", 
+    "how_published": "arXiv:1203.2847 [hep-ex]",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "year": 2012,
+    "HEP_entry": "http://arxiv.org/abs/1203.2847"
+  },
+  {
+    "title": "Arachne - A web-based event viewer for MINER$\\nu$A",
+    "named_authors": "N. Tagg",
+    "how_published": "Nucl. Inst. Meth.A 676 44-49",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "year": 2012,
+    "HEP_entry": "http://inspirehep.net/record/946964"
+  },
+  {
+    "title": "MINER$\\nu$A Status and Event Reconstruction",
+    "named_authors": "G. N. Perdue",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "arXiv:1110.3727 [hep-ex]",
+    "year": 2011,
+    "HEP_entry": "http://inspirehep.net/record/940147"
+  },
+  {
+    "title": "Study of the $K^0_L \\to \\pi^0 \\pi^0 \\nu \\bar{\\nu}$ decay",
+    "named_authors": "R. Ogata",
+    "extra_authors": "yes",
+    "collaboration": "The E391a Collaboration", 
+    "how_published": "Phys. Rev. D 84, 052009",
+    "year": 2011,
+    "HEP_entry": "http://inspirehep.net/record/914155"
+  },
+  {
+    "title": "Status Update for the MINER$\\nu$A Experiment",
+    "named_authors": "G. N. Perdue",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "arXiv:1105.1698 [hep-ex]",
+    "year": 2011,
+    "HEP_entry": "http://inspirehep.net/record/898900"
+  },
+  {
+    "title": "Search for the decay $K_L^0 \\rightarrow 3\\gamma$",
+    "named_authors": "Y. C. Tung", 
+    "extra_authors": "yes",
+    "collaboration": "The E391a Collaboration", 
+    "how_published": "Phys. Rev. D 83, 031101",
+    "year": 2011,
+    "HEP_entry": "http://inspirehep.net/record/878225"
+  },
+  {
+    "title": "Blind background prediction using a bifurcated analysis scheme",
+    "named_authors": "J. Nix, J. Ma, G. N. Perdue, Y. Zheng and Y. W. Wah.",
+    "how_published": "Nucl. Instrum. Meth. A 615, 223",
+    "year": 2010,
+    "HEP_entry": "http://inspirehep.net/record/858417"
+  },
+  {
+    "title": "Search for X(214) in $K_{L}^0 \\rightarrow \\pi^0 \\pi^0 X (X \\rightarrow \\mu^+ \\mu^-)$ using back-anti counter at the E391a experiment",
+    "named_authors": "R. Ogata",
+    "extra_authors": "yes",
+    "collaboration": "The E391a Collaboration", 
+    "how_published": "PoS KAON 09, 014", 
+    "year": 2009
+  },
+  {
+    "title": "Search for a light pseudoscalar particle in the decay $\\kppx$ at the E391a experiment",
+    "named_authors": "Y. C. Tung",
+    "extra_authors": "yes",
+    "collaboration": "The E391a Collaboration", 
+    "how_published": "PoS KAON 09, 040",
+    "year": 2009,
+    "HEP_entry": "http://inspirehep.net/record/854694"
+  },
+  {
+    "title": "Experimental study of the decay $\\kpnn$", 
+    "named_authors": "J. K. Ahn",
+    "extra_authors": "yes",
+    "collaboration": "The E391a Collaboration", 
+    "how_published": "Phys. Rev. D 81, 072004",
+    "year": 2010,
+    "HEP_entry": "http://inspirehep.net/record/837845"
+  },
+  {
+    "title": "Search for the rare decay neutral kaon(long) going to neutral pion neutrino antineutrino",
+    "named_authors": "G. N. Perdue.",
+    "how_published": "University of Chicago PhD Thesis",
+    "year": 2008,
+    "HEP_entry": "http://inspirehep.net/record/809796"
+  },
+  {
+    "title": "Barrel photon detector of the KEK $\\kpnn$ experiment",
+    "named_authors": "Y. Tajima", 
+    "extra_authors": "yes",
+    "collaboration": "The E391a Collaboration", 
+    "how_published": "Nucl. Instrum. Meth. A 592, 261",
+    "year": 2008,
+    "HEP_entry": "http://inspirehep.net/record/800880"
+  },
+  {
+    "title": "Search for a light pseudoscalar particle in the decay $\\kppx$",
+    "named_authors": "Y. C. Tung",
+    "extra_authors": "yes",
+    "collaboration": "The E391a Collaboration", 
+    "how_published": "Phys. Rev. Lett. 102, 051802",
+    "year": 2009,
+    "HEP_entry": "http://inspirehep.net/record/800405"
+  },
+  {
+    "title": "Search for the Decay $\\kpnn$",
+    "named_authors": "J. K. Ahn", 
+    "extra_authors": "yes",
+    "collaboration": "The E391a Collaboration", 
+    "how_published": "Phys. Rev. Lett.  100, 201802",
+    "year": 2008,
+    "HEP_entry": "http://inspirehep.net/record/771495"
+  },
+  {
+    "title": "First search for $\\kppnn$",
+    "named_authors": "J. Nix", 
+    "extra_authors": "yes",
+    "collaboration": "The E391a Collaboration", 
+    "how_published": "Phys. Rev. D 76, 011101",
+    "year": 2007,
+    "HEP_entry": "http://inspirehep.net/record/743556"
+  },
+  {
+    "title": "New limit on the $\\kpnn$ decay rate",
+    "named_authors": "J. K. Ahn",
+    "extra_authors": "yes",
+    "collaboration": "The E391a Collaboration", 
+    "how_published": "Phys. Rev. D 74, 051105",
+    "year": 2006,
+    "errata": "Erratum-ibid. D 74, 079901 (2006)",
+    "HEP_entry": "http://inspirehep.net/record/721357"
+  },
+  {
+    "title": "Undoped-CsI calorimeter for the $\\kpnn$ experiment at KEK-PS", 
+    "named_authors": "M. Doroshenko, K. Abe, J. K. Ahn, V. Baranov, Y. Fujioka, Y. B. Hsiung, T. Ikei and T. Inagaki", 
+    "extra_authors": "yes",
+    "collaboration": "The E391a Collaboration", 
+    "how_published": "Nucl. Instrum. Meth. A 545, 278",
+    "year": 2005,
+    "HEP_entry": "http://inspirehep.net/record/676299"
+  },
+  {
+    "title": "Neutral beam line to study $\\kpnn$ decay at the KEK 12-GeV proton synchrotron",
+    "named_authors": "H. Watanabe, K. Abe, Y. Aikawa, Y. Akune, M. Doroshenko, E. Harada, Y. B. Hsiung and T. Ikei", 
+    "extra_authors": "yes",
+    "collaboration": "The E391a Collaboration", 
+    "how_published": "Nucl. Instrum. Meth. A 545, 542",
+    "year": 2005,
+    "HEP_entry": "http://inspirehep.net/record/676298"
+  },
+  {
+    "title": "Study of the NaBi(WO-4)-2 Cerenkov calorimeter", 
+    "named_authors": "T. Mizuhashi, H. Watanabe, S. Ishibashi, H. Ishii, J. Nix, G. Perdue, E. Pod and N. Sakamoto",
+    "extra_authors": "yes",
+    "collaboration": "The E391a Collaboration", 
+    "HEP_entry": "http://inspirehep.net/record/639541"
+  },
+  {
+    "title": "$\\kpnn$ experiment at KEK 12-GeV PS - E391a",
+    "named_authors": "M. Yamaga, M. Doroshenko, T. Inagaki, N. Ishihara, G. Y. Lim, T. Morimoto, H. Okuno and K. Omata",
+    "extra_authors": "yes",
+    "collaboration": "The E391a Collaboration", 
+    "how_published": "Nucl. Phys. A 721, 449",
+    "year": 2003,
+    "HEP_entry": "http://inspirehep.net/record/631967"
+  },
+  {
+    "title": "A proposal for a precision measurement of the decay $\\kpnn$ and other rare processes at Fermilab using the main injector - KAMI",
+    "named_authors": "T. Alexopoulos",
+    "extra_authors": "yes",
+    "collaboration": "The KAMI Collaboration",
+    "HEP_entry": "http://inspirehep.net/record/561617"
+  }
+]
+
+
+
