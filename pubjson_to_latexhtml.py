@@ -1,20 +1,19 @@
 #!/usr/bin/env python
 """
 Usage:
-
-pubjson_to_latexhtml.py <doc.json>
+    pubjson_to_latexhtml.py <doc.json>
 
 Read a json file of publications in the following form:
 
 [
-{
-"title": "string"
-"named_authors": "string"
-"extra_authors": "yes/no string",
-"minerva_collaboration": "yes/no string",
-"how_published": "Journal ref",
-"year": integer
-}
+    {
+        "title": "string"
+        "named_authors": "string"
+        "extra_authors": "yes/no string",
+        "minerva_collaboration": "yes/no string",
+        "how_published": "Journal ref",
+        "year": integer
+    }
 ]
 
 and produce a latex `.tex` file and a `.html` file.
@@ -30,7 +29,7 @@ def write_latex(pubs):
     with open("pubs.tex", "w") as outf:
         print("\\section{Publications}\n", file=outf)
         print("\\begin{enumerate}\n", file=outf)
-        
+
         for pub in pubs:
             latex_print(pub, outf)
 
@@ -40,7 +39,7 @@ def write_latex(pubs):
 def latex_print(pub, outf=None):
 
     print("\item", file=outf)
-    
+
     if "title" in pub:
         print("{\\bf ``", pub["title"], "''}", sep="", file=outf)
 
@@ -69,7 +68,7 @@ def latex_print(pub, outf=None):
     # final newline for the entry
     print("", file=outf)
 
-    
+
 if __name__ == '__main__':
 
     if len(sys.argv) < 2:
