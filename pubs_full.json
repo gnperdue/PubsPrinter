@@ -1,5 +1,28 @@
 [
   {
+    "title": "Measurement of Neutrino Flux from Neutrino-Electron Elastic Scattering",
+    "named_authors": "J. Park",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "arXiv:1512.07699",
+    "year": 2015
+  },
+  {
+    "title": "GENIE Production Release 2.10.0",
+    "named_authors": "M. Alam",
+    "extra_authors": "yes",
+    "how_published": "arXiv:1512.06882",
+    "year": 2015
+  },
+  {
+    "title": "Long-Baseline Neutrino Facility (LBNF) and Deep Underground Neutrino Experiment (DUNE) Conceptual Design Report Volume 2: The Physics Program for DUNE at LBNF",
+    "named_authors": "R. Acciarri",
+    "extra_authors": "yes",
+    "collaboration": "The DUNE Collaboration",
+    "how_published": "arXiv:1512.06148",
+    "year": 2015
+  },
+  {
     "title": "Identification of nuclear effects in neutrino-carbon interactions at low three-momentum transfer",
     "named_authors": "P. A. Rodrigues",
     "extra_authors": "yes",
