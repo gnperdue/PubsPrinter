@@ -1,5 +1,13 @@
 [
   {
+    "title": "Measurement of electron neutrino quasielastic and quasielastic-like scattering on hydrocarbon at $\\langle E_{\\nu} \\rangle = $ 3.6 GeV",
+    "named_authors": "J. Wolcott",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. Lett. 116, 081802 (2016)",
+    "year": 2016
+  },
+  {
     "title": "Measurement of Partonic Nucelar Effects in Deep-Inelastic Neutrino Scattering using MINERvA",
     "named_authors": "J. Moussseau",
     "extra_authors": "yes",
@@ -39,14 +47,6 @@
     "year": 2015
   },
   {
-    "title": "Measurement of electron neutrino quasielastic and quasielastic-like scattering on hydrocarbon at $\\langle E_{\\nu} \\rangle = $ 3.6 GeV",
-    "named_authors": "J. Wolcott",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv:1509.05729",
-    "year": 2015
-  },
-  {
     "title": "Single neutral pion production by charged-current $\\bar{\\nu}_\\mu$ interactions on hydrocarbon at $\\langle E_{\\nu} \\rangle = $ 3.6 GeV",
     "named_authors": "T. Le",
     "extra_authors": "yes",
@@ -82,7 +82,7 @@
     "named_authors": "A. Higuera",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
-    "how_published": "Phys. Rev. Let. 113, 261802",
+    "how_published": "Phys. Rev. Lett. 113, 261802",
     "year": 2014
   },
   {
@@ -98,7 +98,7 @@
     "named_authors": "B. G. Tice",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
-    "how_published": "Phys. Rev. Let. 112, 231801",
+    "how_published": "Phys. Rev. Lett. 112, 231801",
     "year": 2014
   },
   {
