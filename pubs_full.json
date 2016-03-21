@@ -8,6 +8,14 @@
     "year": 2016
   },
   {
+    "title": "Identification of nuclear effects in neutrino-carbon interactions at low three-momentum transfer",
+    "named_authors": "P. A. Rodrigues",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. Lett. 116, 071802 (2016)",
+    "year": 2016
+  },
+  {
     "title": "Measurement of Partonic Nucelar Effects in Deep-Inelastic Neutrino Scattering using MINERvA",
     "named_authors": "J. Moussseau",
     "extra_authors": "yes",
@@ -39,11 +47,11 @@
     "year": 2015
   },
   {
-    "title": "Identification of nuclear effects in neutrino-carbon interactions at low three-momentum transfer",
-    "named_authors": "P. A. Rodrigues",
+    "title": "Charged Pion Production in $\\nu_{\\mu}$ Interactions on Hydrocarbon at $<E_{\\nu}>$ = 4.0 GeV",
+    "named_authors": "B. Eberly",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv:1511.05944",
+    "how_published": "Phys. Rev. D 92, 092008 (2015)",
     "year": 2015
   },
   {
@@ -83,14 +91,6 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "Phys. Rev. Lett. 113, 261802",
-    "year": 2014
-  },
-  {
-    "title": "Charged Pion Production in $\\nu_{\\mu}$ Interactions on Hydrocarbon at $<E_{\\nu}>$ = 4.0 GeV",
-    "named_authors": "B. Eberly",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv:1406.6415",
     "year": 2014
   },
   {
