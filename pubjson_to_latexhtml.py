@@ -18,7 +18,7 @@ Read a json file of publications in the following form:
 
 and produce a latex `.tex` file and a `.html` file.
 """
-
+from __future__ import print_function
 import json
 import sys
 import re
