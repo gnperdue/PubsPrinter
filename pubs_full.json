@@ -1,5 +1,13 @@
 [
   {
+    "title": "Measurement of partonic nucelar effects in deep-inelastic neutrino scattering using MINERvA",
+    "named_authors": "J. Moussseau",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. D 93, 071101(R)",
+    "year": 2016
+  },
+  {
     "title": "Measurement of $K^+$ production in charged-current $\\nu_{\\mu}$ interactions",
     "named_authors": "C. M. Marshall",
     "extra_authors": "yes",
@@ -29,14 +37,6 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "Phys. Rev. Lett. 116, 071802 (2016)",
-    "year": 2016
-  },
-  {
-    "title": "Measurement of Partonic Nucelar Effects in Deep-Inelastic Neutrino Scattering using MINERvA",
-    "named_authors": "J. Moussseau",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv:1601.06313",
     "year": 2016
   },
   {
