@@ -1,4 +1,12 @@
 [
+  {    
+    "title": "Cross sections for neutrino and antineutrino induced pion production on hydrocarbon in the few-GeV region using MINERvA",
+    "named_authors": "C. L. McGivern",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. D 94, 052005",
+    "year": 2016
+  },
   {
     "title": "Evidence of Coherent $K^+$ Meson Production in Neutrino-Nucleus Scattering",
     "named_authors": "Z. Wang",
@@ -21,14 +29,6 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "arXiv:1607.00704",
-    "year": 2016
-  },
-  {    
-    "title": "Cross sections for neutrino and antineutrino induced pion production on hydrocarbon in the few-GeV region using MINERvA",
-    "named_authors": "C. L. McGivern",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv:1606.07127",
     "year": 2016
   },
   {
