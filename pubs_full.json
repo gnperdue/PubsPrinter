@@ -1,4 +1,12 @@
 [
+  {
+    "title": "Evidence for neutral-current diffractive neutral pion production from hydrogen in neutrino interactions on hydrocarbon",
+    "named_authors": "J. Wolcott",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. Lett. 117, 111801",
+    "year": 2016
+  },
   {    
     "title": "Cross sections for neutrino and antineutrino induced pion production on hydrocarbon in the few-GeV region using MINERvA",
     "named_authors": "C. L. McGivern",
@@ -37,14 +45,6 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "Phys. Rev. D 93, 071101(R)",
-    "year": 2016
-  },
-  {
-    "title": "Evidence for neutral-current diffractive neutral pion production from hydrogen in neutrino interactions on hydrocarbon",
-    "named_authors": "J. Wolcott",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv:1604.01728",
     "year": 2016
   },
   {
