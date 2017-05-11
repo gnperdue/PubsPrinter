@@ -47,11 +47,14 @@ def latex_print(pub, outf=None):
     if "named_authors" in pub:
         print("\\\\{}", end="", file=outf)
         named_list = pub["named_authors"].split(",")
-        for name in named_list:
-            print(re.sub(". ", ".~", name), end=" ", file=outf)
+        for name in named_list[0: -1]:
+            print(re.sub(". ", ".~", name), end=", ", file=outf)
+        print(named_list[-1], end=".", file=outf)
 
     if "extra_authors" in pub:
-        print("{\\it et al.}", end=" ", file=outf)
+        print(" {\\it et al.}", end=" ", file=outf)
+    else:
+        print("", end=" ", file=outf)
 
     if "collaboration" in pub:
         print("[", pub["collaboration"], "].", sep="", file=outf)
