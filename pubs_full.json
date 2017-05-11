@@ -1,5 +1,11 @@
 [
   {
+    "title": "Vertex Reconstruction of Neutrino Interactions using Deep Learning",
+    "named_authors": "A. Terwilliger, G. N. Perdue, D. Isele, R. M. Patton, S. R. Young",
+    "how_published": "IJCNN",
+    "year": 2017
+  },
+  {
     "title": "Measurement of the antieutrino to neutrino charged-current cross section ratio in MINERvA",
     "named_authors": "L. Ren",
     "extra_authors": "yes",
