@@ -1,5 +1,13 @@
 [
   {
+    "title": "Direct Measurement of Nuclear Dependence of Charged Current Quasielastic-like Neutrino Interactions using MINERvA",
+    "named_authors": "M. Betancourt",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "arXiv:1705.03791",
+    "year": 2017
+  },
+  {
     "title": "Vertex Reconstruction of Neutrino Interactions using Deep Learning",
     "named_authors": "A. Terwilliger, G. N. Perdue, D. Isele, R. M. Patton, S. R. Young",
     "how_published": "IJCNN",
@@ -10,7 +18,7 @@
     "named_authors": "L. Ren",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv:1701.04857",
+    "how_published": "Phys. Rev. D 95, 072009",
     "year": 2017
   },
   {
