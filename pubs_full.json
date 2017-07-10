@@ -1,5 +1,13 @@
 [
   {
+    "title": "Measurement of neutral-current $K^+$ production by neutrinos using MINERvA",
+    "named_authors": "C. M. Marshall",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. Lett. 119, 011802",
+    "year": 2017
+  },
+  {
     "title": "NuSTEC White Paper: Status and Challenges of Neutrino-Nucleus Scattering",
     "named_authors": "L. Alvarez-Ruso",
     "extra_authors": "yes",
@@ -35,14 +43,6 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "Phys. Rev. D 94, 112007",
-    "year": 2016
-  },
-  {
-    "title": "Measurement of neutral-current $K^+$ production by neutrinos using MINERvA",
-    "named_authors": "C. M. Marshall",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv:1611.02224",
     "year": 2016
   },
   {
