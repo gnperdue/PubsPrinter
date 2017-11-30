@@ -1,5 +1,12 @@
 [
   {
+    "title": "Evolving Deep Networks Using HPC",
+    "named_authors": "S. R. Young, D. C. Rose, T. Johnston, W. T. Heller, T. P. Karnowski, T. E. Potok, R. M. Patton, G. Perdue, J. Miller",
+    "extra_authors": "no",
+    "how_published": "MLHPC'17 Proceedings of Machine Learning on HPC Environments, Article No. 7",
+    "year": 2017
+  },
+  {
     "title": "Measurement of muon neutrino charged-current single pi-zero production on hydrocarbon in the few-GeV region using MINERvA",
     "named_authors": "O. Altinok",
     "extra_authors": "yes",
