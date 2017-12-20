@@ -1,5 +1,12 @@
 [
   {
+    "title": "A Roadmap for HEP Software and Computing R and D for the 2020s",
+    "named_authors": "A. A. Alves Jr",
+    "extra_authors": "yes",
+    "how_published": "arXiv:1712.06982",
+    "year": 2017
+  },
+  {
     "title": "Evolving Deep Networks Using HPC",
     "named_authors": "S. R. Young, D. C. Rose, T. Johnston, W. T. Heller, T. P. Karnowski, T. E. Potok, R. M. Patton, G. Perdue, J. Miller",
     "extra_authors": "no",
