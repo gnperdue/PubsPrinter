@@ -1,5 +1,34 @@
 [
   {
+    "title": "Improved vertex finding in the MINERvA passive target region with deep learning",
+    "named_authors": "A. Ghosh",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "In preparation for submission to NIM",
+    "year": 2018
+  },
+  {
+    "title": "Comparisons and challenges of modern neutrino scattering experiments (TENSIONS 2016 report)",
+    "named_authors": "M. Betancourt",
+    "extra_authors": "yes",
+    "how_published": "In preparation",
+    "year": 2018
+  },
+  {
+    "title": "Neuromorphic Computing for Temporal Scientific Data Classification",
+    "named_authors": "C. D. Schuman, T. E. Potok, S. Young, R. Patton, G. Perdue, G. Chakma, A. Wyer, G. S. Rose",
+    "extra_authors": "no",
+    "how_published": "To appear in the ACM Digital Library",
+    "year": 2018
+  },
+  {
+    "title": " NuSTEC White Paper: Status and Challenges of Neutrino-Nucleus Scattering",
+    "named_authors": "L. Alvarez-Ruso",
+    "extra_authors": "yes",
+    "how_published": "Accepted by Progress in Particle and Nuclear Physics, arXiv1706.03621",
+    "year": 2018
+  },
+  {
     "title": "Measurement of the muon anti-neutrino double-differential cross section for quasi-elastic scattering on hydrocarbon at $E_{\\nu} \\sim 3.5$ GeV",
     "named_authors": "C. E. Patrick",
     "extra_authors": "yes",
