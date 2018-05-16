@@ -1,5 +1,13 @@
 [
   {
+    "title": "Measurement of final-state correlations in neutrino muon-proton mesonless production on hydrocarbon at $\\langle E_{\\nu} \\rangle = 3$ GeV",
+    "named_authors": "X.-G Lu",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "arXiv:1805.05486",
+    "year": 2018
+  },
+  {
     "title": "Reducing model bias in a deep learning classifier using domain adversarial neural networks in the MINERvA experiment",
     "named_authors": "A. Ghosh",
     "extra_authors": "yes",
