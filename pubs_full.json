@@ -1,5 +1,12 @@
 [
   {
+    "title": "Comparisons and challenges of modern neutrino scattering experiments (TENSIONS 2016 report)",
+    "named_authors": "M. Betancourt",
+    "extra_authors": "yes",
+    "how_published": "arXiv 1805.07378",
+    "year": 2018
+  },
+  {
     "title": "Measurement of final-state correlations in neutrino muon-proton mesonless production on hydrocarbon at $\\langle E_{\\nu} \\rangle = 3$ GeV",
     "named_authors": "X.-G Lu",
     "extra_authors": "yes",
@@ -13,13 +20,6 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "In preparation for submission to NIM",
-    "year": 2018
-  },
-  {
-    "title": "Comparisons and challenges of modern neutrino scattering experiments (TENSIONS 2016 report)",
-    "named_authors": "M. Betancourt",
-    "extra_authors": "yes",
-    "how_published": "In preparation",
     "year": 2018
   },
   {
