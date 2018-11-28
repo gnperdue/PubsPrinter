@@ -1,5 +1,13 @@
 [
   {
+    "title": "Reducing model bias in a deep learning classifier using domain adversarial neural networks in the MINERvA experiment",
+    "named_authors": "G.~N.~Perdue",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Journal of Instrumentation, Volume 13",
+    "year": 2018
+  },
+  {
     "title": "Comparisons and challenges of modern neutrino scattering experiments (TENSIONS 2016 report)",
     "named_authors": "M. Betancourt",
     "extra_authors": "yes",
@@ -12,14 +20,6 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "Phys. Rev. Lett. 121, 022504",
-    "year": 2018
-  },
-  {
-    "title": "Reducing model bias in a deep learning classifier using domain adversarial neural networks in the MINERvA experiment",
-    "named_authors": "A. Ghosh",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "In preparation for submission to NIM",
     "year": 2018
   },
   {
