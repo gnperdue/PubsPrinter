@@ -1,5 +1,13 @@
 [
   {
+    "title": "Measurement of quasielastic-like neutrino scattering at $\\langle E_{\\nu} \\rangle \\sim 3.5$ GeV on a hydrocarbon target",
+    "named_authors": "D.~Ruterbories",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. D 99, 012004",
+    "year": 2019
+  },
+  {
     "title": "Reducing model bias in a deep learning classifier using domain adversarial neural networks in the MINERvA experiment",
     "named_authors": "G.~N.~Perdue",
     "extra_authors": "yes",
