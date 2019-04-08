@@ -1,5 +1,13 @@
 [
   {
+    "title": "Tuning the GENIE Pion Production Model with MINERvA Data",
+    "named_authors": "P.~Stowell",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "arXiv 1903.01558",
+    "year": 2019
+  },
+  {
     "title": "Deep Learning for Vertex Reconstruction of Neutrino-Nucleus Interaction Events with Combined Energy and Time Data",
     "named_authors": "L.~Song, F.~Chen, S.~R.~Young, C.~D.~Schuman, G.~Perdue, T.~E.~Potok",
     "how_published": "IEEE ICASSP",
