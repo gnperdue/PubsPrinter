@@ -1,8 +1,14 @@
 [
   {
+    "title": "Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors",
+    "named_authors": "X.~Ju",
+    "extra_authors": "yes",
+    "how_published": "Submitted to the Second Workshop on Machine Learning and the Physics Sciences (NeurIPS 2019)",
+    "year": 2019
+  },
+  {
     "title": "Restricted Boltzmann Machines for galaxy morphology classification with a quantum annealer",
     "named_authors": "S.~Adachi,J.~Caldeira,J.~Job,B.~D.~Nord,G.~N.~Perdue",
-    "extra_authors": "no",
     "how_published": "arXiv",
     "year": 2019
   },
@@ -12,6 +18,12 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "arXiv 1910.08658",
+    "year": 2019
+  },
+  {
+    "title": "GEANT4 Parameter Tuning Using Professor",
+    "named_authors": "V.~Elvira, L.~Fields, K.~L.~Genser, R.~Hatcher, V.~Ivanchenko, M.~Kelsey, T.~Koi, G.~N.~Perdue, A.~Ribon, V.~Uzhinsky, D.~H.~Wright, J.~Yarba, S.~Y.~Jun",
+    "how_published": "arXiv 1910.06417",
     "year": 2019
   },
   {
