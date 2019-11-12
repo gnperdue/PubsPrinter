@@ -13,6 +13,14 @@
     "year": 2019
   },
   {
+    "title": "Tuning the GENIE Pion Production Model with MINERvA Data",
+    "named_authors": "P.~Stowell",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. D 100, 072005",
+    "year": 2019
+  },
+  {
     "title": "Nuclear binding energy and transverse momentum imbalance in neutrino-nucleus reaction",
     "named_authors": "T.~Cai,~X.-G.~Lu",
     "extra_authors": "yes",
@@ -48,14 +56,6 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "arXiv 1906.00111",
-    "year": 2019
-  },
-  {
-    "title": "Tuning the GENIE Pion Production Model with MINERvA Data",
-    "named_authors": "P.~Stowell",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 1903.01558",
     "year": 2019
   },
   {
