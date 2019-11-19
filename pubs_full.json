@@ -1,5 +1,11 @@
 [
   {
+    "title": "Quantum Computing for Neutrino-nucleus Scattering",
+    "named_authors": "A.~Roggero,A.~C.~Y.~Li,J.~Carlson,R.~Gupta,G.~N.~Perdue",
+    "how_published": "arXiv 1911.06368",
+    "year": 2019
+  },
+  {
     "title": "Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors",
     "named_authors": "X.~Ju",
     "extra_authors": "yes",
@@ -9,7 +15,7 @@
   {
     "title": "Restricted Boltzmann Machines for galaxy morphology classification with a quantum annealer",
     "named_authors": "S.~Adachi,J.~Caldeira,J.~Job,B.~D.~Nord,G.~N.~Perdue",
-    "how_published": "arXiv",
+    "how_published": "arXiv 1911.06259",
     "year": 2019
   },
   {
