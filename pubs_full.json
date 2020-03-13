@@ -16,6 +16,12 @@
     "year": 2020
   },
   {
+    "title": "Data and Models: A Framework for Advancing AI in Science",
+    "named_authors": "K.~Fagnan,Y.~Nashed,G.~Perdue,D.~Ratner,A.~Shankar,S.~Yoo",
+    "how_published": "https://www.osti.gov/servlets/purl/1579323",
+    "year": 2019
+  },
+  {
     "title": "Inferring Convolutional Neural Networks' accuracies from their architectural characterizations",
     "named_authors": "D.~Hoang,J.~Hamer,G.~N.~Perdue,S.~R.~Young,J.~Miller,A.~Ghosh",
     "extra_authors": "no",
