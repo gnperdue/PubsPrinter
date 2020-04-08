@@ -1,5 +1,13 @@
 [
   {
+    "title": "High-statistics measurement of neutrino quasielastic-like scattering at $\\langle E \\rangle \\sim= 6$ GeV on a hydrocarbon target",
+    "named_authors": "M.~F.~Carneiro",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. Lett. 124, 121801",
+    "year": 2020
+  },
+  {
     "title": "Double-Differential Inclusive Charged-Current $\\nu_\\mu$ Cross Sections on Hydrocarbon in MINERvA at $\\langle E_{\\nu} \\rangle \\sim$ 3.5 GeV",
     "named_authors": "A.~Filkins",
     "extra_authors": "yes",
@@ -26,14 +34,6 @@
     "named_authors": "D.~Hoang,J.~Hamer,G.~N.~Perdue,S.~R.~Young,J.~Miller,A.~Ghosh",
     "extra_authors": "no",
     "how_published": "arXiv 2001.02160",
-    "year": 2019
-  },
-  {
-    "title": "High-statistics measurement of neutrino quasielastic-like scattering at $\\langle E \\rangle \\sim= 6$ GeV on a hydrocarbon target",
-    "named_authors": "M.~F.~Carneiro",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 1912.09890",
     "year": 2019
   },
   {
