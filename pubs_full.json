@@ -1,10 +1,30 @@
 [
   {
+    "title": "Quantum Machine Learning in High Energy Physics",
+    "named_authors": "W.~Guan,G.~Perdue,A.~Pesah,M.~Schuld,K.~Terashi,S.~Vallecorsa,J-R.~Vilmant",
+    "how_published": "arXiv 2005.08582",
+    "year": 2020
+  },
+  {
     "title": "Double-Differential Inclusive Charged-Current $\\nu_\\mu$ Cross Sections on Hydrocarbon in MINERvA at $\\langle E_{\\nu} \\rangle \\sim$ 3.5 GeV",
     "named_authors": "A.~Filkins",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "Phys. Rev. D 101, 112007",
+    "year": 2020
+  },
+  {
+    "title": "Nucleon binding energy and transverse momentum imbalance in neutrino-nucleus reaction",
+    "named_authors": "T.~Cai,~X.-G.~Lu",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. D 101, 092001",
+    "year": 2020
+  },
+  {
+    "title": "Quantum Computing for Neutrino-nucleus Scattering",
+    "named_authors": "A.~Roggero,A.~C.~Y.~Li,J.~Carlson,R.~Gupta,G.~N.~Perdue",
+    "how_published": "Phys. Rev. D 101, 074038",
     "year": 2020
   },
   {
@@ -37,12 +57,6 @@
     "year": 2019
   },
   {
-    "title": "Quantum Computing for Neutrino-nucleus Scattering",
-    "named_authors": "A.~Roggero,A.~C.~Y.~Li,J.~Carlson,R.~Gupta,G.~N.~Perdue",
-    "how_published": "arXiv 1911.06368",
-    "year": 2019
-  },
-  {
     "title": "Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors",
     "named_authors": "X.~Ju",
     "extra_authors": "yes",
@@ -69,14 +83,6 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "Phys. Rev. D 100, 072005",
-    "year": 2019
-  },
-  {
-    "title": "Nuclear binding energy and transverse momentum imbalance in neutrino-nucleus reaction",
-    "named_authors": "T.~Cai,~X.-G.~Lu",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 1910.08658",
     "year": 2019
   },
   {
@@ -252,7 +258,7 @@
     "how_published": "Phys. Rev. Lett. 117, 111801",
     "year": 2016
   },
-  {    
+  {
     "title": "Neutrino Flux Predictions for the NuMI Beam",
     "named_authors": "L. Aliaga",
     "extra_authors": "yes",
@@ -260,7 +266,7 @@
     "how_published": "Phys. Rev. D 94, 092005",
     "year": 2016
   },
-  {    
+  {
     "title": "Cross sections for neutrino and antineutrino induced pion production on hydrocarbon in the few-GeV region using MINERvA",
     "named_authors": "C. L. McGivern",
     "extra_authors": "yes",
@@ -363,7 +369,7 @@
     "year": 2015
   },
   {
-    "title": "Measurement of muon plus proton final states in $\\nu_{\\mu}$ Interactions on Hydrocarbon at $<E_{\\nu}>$ = 4.2 GeV", 
+    "title": "Measurement of muon plus proton final states in $\\nu_{\\mu}$ Interactions on Hydrocarbon at $<E_{\\nu}>$ = 4.2 GeV",
     "named_authors": "T. Walton",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
@@ -407,12 +413,12 @@
     "named_authors": "L. Fields",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
-    "how_published": "Phys. Rev. Lett. 111, 022501", 
+    "how_published": "Phys. Rev. Lett. 111, 022501",
     "year": 2013
   },
   {
     "title": "Measurement of Muon Neutrino Quasi-Elastic Scattering on a Hydrocarbon Target at $E_{\\nu}$ $\\sim$ 3.5 GeV",
-    "named_authors": "G. A. Fiorentini", 
+    "named_authors": "G. A. Fiorentini",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "Phys. Rev. Lett. 111, 022502",
@@ -429,14 +435,14 @@
   },
   {
     "title": "Fundamental Physics at the Intensity Frontier",
-    "named_authors": "J. L. Hewett, H. Weerts, R. Brock, J. N. Butler, B. C. K. Casey, J. Collar, A. de Govea and R. Essig", 
+    "named_authors": "J. L. Hewett, H. Weerts, R. Brock, J. N. Butler, B. C. K. Casey, J. Collar, A. de Govea and R. Essig",
     "extra_authors": "yes",
     "how_published": "arXiv:1205.2671 [hep-ex]",
     "HEP_entry": "http://inspirehep.net/record/1114323"
   },
   {
     "title": "Demonstration of Communication Using Neutrinos",
-    "named_authors": "D. D. Stancil", 
+    "named_authors": "D. D. Stancil",
     "how_published": "arXiv:1203.2847 [hep-ex]",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
@@ -464,7 +470,7 @@
     "title": "Study of the $K^0_L \\to \\pi^0 \\pi^0 \\nu \\bar{\\nu}$ decay",
     "named_authors": "R. Ogata",
     "extra_authors": "yes",
-    "collaboration": "The E391a Collaboration", 
+    "collaboration": "The E391a Collaboration",
     "how_published": "Phys. Rev. D 84, 052009",
     "year": 2011,
     "HEP_entry": "http://inspirehep.net/record/914155"
@@ -479,9 +485,9 @@
   },
   {
     "title": "Search for the decay $K_L^0 \\rightarrow 3\\gamma$",
-    "named_authors": "Y. C. Tung", 
+    "named_authors": "Y. C. Tung",
     "extra_authors": "yes",
-    "collaboration": "The E391a Collaboration", 
+    "collaboration": "The E391a Collaboration",
     "how_published": "Phys. Rev. D 83, 031101",
     "year": 2011,
     "HEP_entry": "http://inspirehep.net/record/878225"
@@ -497,24 +503,24 @@
     "title": "Search for X(214) in $K_{L}^0 \\rightarrow \\pi^0 \\pi^0 X (X \\rightarrow \\mu^+ \\mu^-)$ using back-anti counter at the E391a experiment",
     "named_authors": "R. Ogata",
     "extra_authors": "yes",
-    "collaboration": "The E391a Collaboration", 
-    "how_published": "PoS KAON 09, 014", 
+    "collaboration": "The E391a Collaboration",
+    "how_published": "PoS KAON 09, 014",
     "year": 2009
   },
   {
     "title": "Search for a light pseudoscalar particle in the decay $\\kppx$ at the E391a experiment",
     "named_authors": "Y. C. Tung",
     "extra_authors": "yes",
-    "collaboration": "The E391a Collaboration", 
+    "collaboration": "The E391a Collaboration",
     "how_published": "PoS KAON 09, 040",
     "year": 2009,
     "HEP_entry": "http://inspirehep.net/record/854694"
   },
   {
-    "title": "Experimental study of the decay $\\kpnn$", 
+    "title": "Experimental study of the decay $\\kpnn$",
     "named_authors": "J. K. Ahn",
     "extra_authors": "yes",
-    "collaboration": "The E391a Collaboration", 
+    "collaboration": "The E391a Collaboration",
     "how_published": "Phys. Rev. D 81, 072004",
     "year": 2010,
     "HEP_entry": "http://inspirehep.net/record/837845"
@@ -528,9 +534,9 @@
   },
   {
     "title": "Barrel photon detector of the KEK $\\kpnn$ experiment",
-    "named_authors": "Y. Tajima", 
+    "named_authors": "Y. Tajima",
     "extra_authors": "yes",
-    "collaboration": "The E391a Collaboration", 
+    "collaboration": "The E391a Collaboration",
     "how_published": "Nucl. Instrum. Meth. A 592, 261",
     "year": 2008,
     "HEP_entry": "http://inspirehep.net/record/800880"
@@ -539,25 +545,25 @@
     "title": "Search for a light pseudoscalar particle in the decay $\\kppx$",
     "named_authors": "Y. C. Tung",
     "extra_authors": "yes",
-    "collaboration": "The E391a Collaboration", 
+    "collaboration": "The E391a Collaboration",
     "how_published": "Phys. Rev. Lett. 102, 051802",
     "year": 2009,
     "HEP_entry": "http://inspirehep.net/record/800405"
   },
   {
     "title": "Search for the Decay $\\kpnn$",
-    "named_authors": "J. K. Ahn", 
+    "named_authors": "J. K. Ahn",
     "extra_authors": "yes",
-    "collaboration": "The E391a Collaboration", 
+    "collaboration": "The E391a Collaboration",
     "how_published": "Phys. Rev. Lett.  100, 201802",
     "year": 2008,
     "HEP_entry": "http://inspirehep.net/record/771495"
   },
   {
     "title": "First search for $\\kppnn$",
-    "named_authors": "J. Nix", 
+    "named_authors": "J. Nix",
     "extra_authors": "yes",
-    "collaboration": "The E391a Collaboration", 
+    "collaboration": "The E391a Collaboration",
     "how_published": "Phys. Rev. D 76, 011101",
     "year": 2007,
     "HEP_entry": "http://inspirehep.net/record/743556"
@@ -566,42 +572,42 @@
     "title": "New limit on the $\\kpnn$ decay rate",
     "named_authors": "J. K. Ahn",
     "extra_authors": "yes",
-    "collaboration": "The E391a Collaboration", 
+    "collaboration": "The E391a Collaboration",
     "how_published": "Phys. Rev. D 74, 051105",
     "year": 2006,
     "errata": "Erratum-ibid. D 74, 079901 (2006)",
     "HEP_entry": "http://inspirehep.net/record/721357"
   },
   {
-    "title": "Undoped-CsI calorimeter for the $\\kpnn$ experiment at KEK-PS", 
-    "named_authors": "M. Doroshenko, K. Abe, J. K. Ahn, V. Baranov, Y. Fujioka, Y. B. Hsiung, T. Ikei and T. Inagaki", 
+    "title": "Undoped-CsI calorimeter for the $\\kpnn$ experiment at KEK-PS",
+    "named_authors": "M. Doroshenko, K. Abe, J. K. Ahn, V. Baranov, Y. Fujioka, Y. B. Hsiung, T. Ikei and T. Inagaki",
     "extra_authors": "yes",
-    "collaboration": "The E391a Collaboration", 
+    "collaboration": "The E391a Collaboration",
     "how_published": "Nucl. Instrum. Meth. A 545, 278",
     "year": 2005,
     "HEP_entry": "http://inspirehep.net/record/676299"
   },
   {
     "title": "Neutral beam line to study $\\kpnn$ decay at the KEK 12-GeV proton synchrotron",
-    "named_authors": "H. Watanabe, K. Abe, Y. Aikawa, Y. Akune, M. Doroshenko, E. Harada, Y. B. Hsiung and T. Ikei", 
+    "named_authors": "H. Watanabe, K. Abe, Y. Aikawa, Y. Akune, M. Doroshenko, E. Harada, Y. B. Hsiung and T. Ikei",
     "extra_authors": "yes",
-    "collaboration": "The E391a Collaboration", 
+    "collaboration": "The E391a Collaboration",
     "how_published": "Nucl. Instrum. Meth. A 545, 542",
     "year": 2005,
     "HEP_entry": "http://inspirehep.net/record/676298"
   },
   {
-    "title": "Study of the NaBi(WO-4)-2 Cerenkov calorimeter", 
+    "title": "Study of the NaBi(WO-4)-2 Cerenkov calorimeter",
     "named_authors": "T. Mizuhashi, H. Watanabe, S. Ishibashi, H. Ishii, J. Nix, G. Perdue, E. Pod and N. Sakamoto",
     "extra_authors": "yes",
-    "collaboration": "The E391a Collaboration", 
+    "collaboration": "The E391a Collaboration",
     "HEP_entry": "http://inspirehep.net/record/639541"
   },
   {
     "title": "$\\kpnn$ experiment at KEK 12-GeV PS - E391a",
     "named_authors": "M. Yamaga, M. Doroshenko, T. Inagaki, N. Ishihara, G. Y. Lim, T. Morimoto, H. Okuno and K. Omata",
     "extra_authors": "yes",
-    "collaboration": "The E391a Collaboration", 
+    "collaboration": "The E391a Collaboration",
     "how_published": "Nucl. Phys. A 721, 449",
     "year": 2003,
     "HEP_entry": "http://inspirehep.net/record/631967"
@@ -614,6 +620,3 @@
     "HEP_entry": "http://inspirehep.net/record/561617"
   }
 ]
-
-
-
