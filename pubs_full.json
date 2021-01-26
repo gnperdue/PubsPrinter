@@ -1,5 +1,11 @@
 [
   {
+    "title": "Machine learning of high dimensional data on a noisy quantum processor",
+    "named_authors": "E.~Peters, J.~Caldeira, A.~Ho, S.~Leichenauer, M.~Mohseni, H.~Neven, P.~Spentzouris, D.~Strain, G.~N.~Perdue",
+    "how_published": "arXiv 2101.09581",
+    "year": 2021
+  },
+  {
     "title": "Real-time Artifical Intelligence for Accelerator Control: A Study at the Fermilab Booster",
     "named_authors": "J.~St.~John,C.~Herwig,D.~Kafkes,W.~A.~Pellico,G.~N.~Perdue,A.~Quintero-Parra,B.~A.~Schupbach,K.~Seiya,N.~Tran,J.~M.~Duarte,Y.~Huang,M.~Schram,R.~Keller",
     "how_published": "arXiv 2011.07371",
