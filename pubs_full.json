@@ -1,5 +1,11 @@
 [
   {
+    "title": "DeepMerge II: Building Robust Deep Learning Algorithms for Merging Galaxy Identification Across Domains",
+    "named_authors": "A.~Ciprijanovic, D.~Kafkes, K.~Downey, S.~Jenkins, G.~N.~Perdue, S.~Madireddy, T.~Johnston, G.~F.~Snyder, B.~Nord",
+    "how_published": "arXiv 2103.01373",
+    "year": 2021
+  },
+  {
     "title": "Machine learning of high dimensional data on a noisy quantum processor",
     "named_authors": "E.~Peters, J.~Caldeira, A.~Ho, S.~Leichenauer, M.~Mohseni, H.~Neven, P.~Spentzouris, D.~Strain, G.~N.~Perdue",
     "how_published": "arXiv 2101.09581",
@@ -15,6 +21,14 @@
     "title": "Quantum Machine Learning in High Energy Physics",
     "named_authors": "W.~Guan,G.~Perdue,A.~Pesah,M.~Schuld,K.~Terashi,S.~Vallecorsa,J-R.~Vilmant",
     "how_published": "Machine Learning: Science and Technology, http://iopscience.iop.org/10.1088/2632-2153/abc17d",
+    "year": 2020
+  },
+  {
+    "title": "Probing Nuclear Effects with Neutrino-induced Charged-Current Neutral Pion Production",
+    "named_authors": "D.~Coplowe",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. D 102, 072007",
     "year": 2020
   },
   {
@@ -45,14 +59,6 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "Phys. Rev. Lett. 124, 121801",
-    "year": 2020
-  },
-  {
-    "title": "Probing Nuclear Effects with Neutrino-induced Charged-Current Neutral Pion Production",
-    "named_authors": "D.~Coplowe",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 2002.05812",
     "year": 2020
   },
   {
