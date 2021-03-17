@@ -1,11 +1,19 @@
 [
   {
+    "title": "An Error Analysis Toolkit for Binned Counting Experiments",
+    "named_authors": "B.~Messerly",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "arXiv 2103.08677",
+    "year": 2021
+  },
+  {
     "title": "Neutral pion reconstruction using machine learning in the MINERvA experiment at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV",
     "named_authors": "A.~Ghosh",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "arXiv 2103.06992",
-    "year": 2020
+    "year": 2021
   },
   {
     "title": "DeepMerge II: Building Robust Deep Learning Algorithms for Merging Galaxy Identification Across Domains",
