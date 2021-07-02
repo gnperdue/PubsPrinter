@@ -1,5 +1,19 @@
 [
   {
+    "title": "Measurement of inclusive charged-current $\\nu_\\mu$ cross sections as a function of muon kinematics at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV on hydrocarbon",
+    "named_authors": "D.~Ruterbories",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "arXiv 2106.16210",
+    "year": 2021
+  },
+  {
+    "title": "DeepMerge II: Building Robust Deep Learning Algorithms for Merging Galaxy Identification Across Domains",
+    "named_authors": "A.~Ciprijanovic, D.~Kafkes, K.~Downey, S.~Jenkins, G.~N.~Perdue, S.~Madireddy, T.~Johnston, G.~F.~Snyder, B.~Nord",
+    "how_published": "MNRAS 000, 1-17",
+    "year": 2021
+  },
+  {
     "title": "Perturbative readout error mitigation for near term quantum computers",
     "named_authors": "Evan~Peters,~Andy~Li,~Gabriel~N.~Perdue",
     "how_published": "arXiv 2105.08161",
@@ -35,12 +49,6 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "arXiv 2103.06992",
-    "year": 2021
-  },
-  {
-    "title": "DeepMerge II: Building Robust Deep Learning Algorithms for Merging Galaxy Identification Across Domains",
-    "named_authors": "A.~Ciprijanovic, D.~Kafkes, K.~Downey, S.~Jenkins, G.~N.~Perdue, S.~Madireddy, T.~Johnston, G.~F.~Snyder, B.~Nord",
-    "how_published": "arXiv 2103.01373",
     "year": 2021
   },
   {
