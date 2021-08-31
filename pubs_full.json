@@ -1,5 +1,17 @@
 [
   {
+    "title": "Benchmarking variational quantum eigensolvers for the square-octagon-lattice Kitaev model",
+    "named_authors": "A.~C.~Y.~Li, M.~S.~Alam, T.~Iadecola, A.~Jahin, D.~M.~Kurkcuoglu, R.~Li, P.~Orth, A.~B.~Ozguler, G.~N.~Perdue",
+    "how_published": "arXiv 2108.13375",
+    "year": 2021
+  },
+  {
+    "title": "Quantum simulation of $\\phi^4$ theories in qudit systems",
+    "named_authors": "D.~M.~Kurkcuoglu, M.~S.~Alam, A.~C.~Y.~Li, A.~Macridin, G.~N.~Perdue",
+    "how_published": "arXiv 2108.13357",
+    "year": 2021
+  },
+  {
     "title": "Exploring Neutrino-Nucleus Interactions in the GeV Regime using MINERvA",
     "named_authors": "X.-G.~Lu",
     "extra_authors": "yes",
