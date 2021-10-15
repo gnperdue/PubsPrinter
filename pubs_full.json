@@ -1,5 +1,20 @@
 [
   {
+    "title": "Large scale multi-node simulations of Z2 gauge theory quantum circuits using Google Cloud Platform",
+    "named_authors": "E.~Gustafson, B.~Holzman, J.~Kowalkowski, H.~Lamm, A.~C.~Y.~Li, G.~N.~Perdue, S.~Boixo, S.~V.~Isakov, O.~Martin, C.~Volgradd~Heidweiller, J.~Beall, M.~Ganahl, G.~Vidal",
+    "extra_authors": "no",
+    "how_published": "arXiv 2110.07482",
+    "year": 2021
+  },
+  {
+    "title": "Use of Neutrino Scattering Events with Low Hadronic Recoil to Inform Neutrino Flux and Detector Energy Scale",
+    "named_authors": "A.~Bashyal",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "JINST 16 P08068",
+    "year": 2021
+  },
+  {
     "title": "Benchmarking variational quantum eigensolvers for the square-octagon-lattice Kitaev model",
     "named_authors": "A.~C.~Y.~Li, M.~S.~Alam, T.~Iadecola, A.~Jahin, D.~M.~Kurkcuoglu, R.~Li, P.~Orth, A.~B.~Ozguler, G.~N.~Perdue",
     "how_published": "arXiv 2108.13375",
@@ -28,6 +43,14 @@
     "year": 2021
   },
   {
+    "title": "Neutral pion reconstruction using machine learning in the MINERvA experiment at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV",
+    "named_authors": "A.~Ghosh",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "JINST 16 P07060",
+    "year": 2021
+  },
+  {
     "title": "Measurement of inclusive charged-current $\\nu_\\mu$ cross sections as a function of muon kinematics at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV on hydrocarbon",
     "named_authors": "D.~Ruterbories",
     "extra_authors": "yes",
@@ -38,7 +61,7 @@
   {
     "title": "DeepMerge II: Building Robust Deep Learning Algorithms for Merging Galaxy Identification Across Domains",
     "named_authors": "A.~Ciprijanovic, D.~Kafkes, K.~Downey, S.~Jenkins, G.~N.~Perdue, S.~Madireddy, T.~Johnston, G.~F.~Snyder, B.~Nord",
-    "how_published": "MNRAS 000, 1-17",
+    "how_published": "MNRAS 506, Issue 1, pages 677-691",
     "year": 2021
   },
   {
@@ -56,27 +79,11 @@
     "year": 2021
   },
   {
-    "title": "Use of Neutrino Scattering Events with Low Hadronic Recoil to Inform Neutrino Flux and Detector Energy Scale",
-    "named_authors": "A.~Bashyal",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 2104.05769",
-    "year": 2021
-  },
-  {
     "title": "An Error Analysis Toolkit for Binned Counting Experiments",
     "named_authors": "B.~Messerly",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "arXiv 2103.08677",
-    "year": 2021
-  },
-  {
-    "title": "Neutral pion reconstruction using machine learning in the MINERvA experiment at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV",
-    "named_authors": "A.~Ghosh",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 2103.06992",
     "year": 2021
   },
   {
