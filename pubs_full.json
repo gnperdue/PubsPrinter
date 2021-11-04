@@ -1,4 +1,21 @@
+
+
 [
+  {
+    "title": "Simulations of Quantum Circuits with Approximate Noise using qsim and Cirq",
+    "named_authors": "S.~V.~Isakov, D.~Kafri, O.~Martin, C.~Vollgraff~Heidweiller, W.~Mruczkiewicz, M.~P.~Harrigan, N.~C.~Rubin, R.~Thomson, M.~Broughton, K.~Kissell, E.~Peters, E.~Gustafson, A.~C.~Y.~Li, H.~Lamm, G.~N.~Perdue, A.~K.~Ho, D.~Strain, S.~Boixo",
+    "extra_authors": "no",
+    "how_published": "arXiv 2111.02396",
+    "year": 2021
+  },
+  {
+    "title": "Measurement of inclusive charged-current $\\nu_{\\mu}$ scattering on hydrocarbon at $E_{\\nu} \\sim 6$ GeV with low three-momentum transfer",
+    "named_authors": "M.~V.~Ascencio",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "arXiv 2110.13372",
+    "year": 2021
+  },
   {
     "title": "Large scale multi-node simulations of Z2 gauge theory quantum circuits using Google Cloud Platform",
     "named_authors": "E.~Gustafson, B.~Holzman, J.~Kowalkowski, H.~Lamm, A.~C.~Y.~Li, G.~N.~Perdue, S.~Boixo, S.~V.~Isakov, O.~Martin, C.~Volgradd~Heidweiller, J.~Beall, M.~Ganahl, G.~Vidal",
