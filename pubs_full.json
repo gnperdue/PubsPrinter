@@ -17,6 +17,12 @@
     "year": 2021
   },
   {
+    "title": "Real-time Artifical Intelligence for Accelerator Control: A Study at the Fermilab Booster",
+    "named_authors": "J.~St.~John,C.~Herwig,D.~Kafkes,W.~A.~Pellico,G.~N.~Perdue,A.~Quintero-Parra,B.~A.~Schupbach,K.~Seiya,N.~Tran,J.~M.~Duarte,Y.~Huang,M.~Schram,R.~Keller",
+    "how_published": "Phys. Rev. Accel. Beams 24, 104601",
+    "year": 2021
+  },
+  {
     "title": "Large scale multi-node simulations of Z2 gauge theory quantum circuits using Google Cloud Platform",
     "named_authors": "E.~Gustafson, B.~Holzman, J.~Kowalkowski, H.~Lamm, A.~C.~Y.~Li, G.~N.~Perdue, S.~Boixo, S.~V.~Isakov, O.~Martin, C.~Volgradd~Heidweiller, J.~Beall, M.~Ganahl, G.~Vidal",
     "extra_authors": "no",
@@ -108,12 +114,6 @@
     "named_authors": "E.~Peters, J.~Caldeira, A.~Ho, S.~Leichenauer, M.~Mohseni, H.~Neven, P.~Spentzouris, D.~Strain, G.~N.~Perdue",
     "how_published": "arXiv 2101.09581",
     "year": 2021
-  },
-  {
-    "title": "Real-time Artifical Intelligence for Accelerator Control: A Study at the Fermilab Booster",
-    "named_authors": "J.~St.~John,C.~Herwig,D.~Kafkes,W.~A.~Pellico,G.~N.~Perdue,A.~Quintero-Parra,B.~A.~Schupbach,K.~Seiya,N.~Tran,J.~M.~Duarte,Y.~Huang,M.~Schram,R.~Keller",
-    "how_published": "arXiv 2011.07371",
-    "year": 2020
   },
   {
     "title": "Quantum Machine Learning in High Energy Physics",
