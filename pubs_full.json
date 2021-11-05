@@ -2,6 +2,13 @@
 
 [
   {
+    "title": "Nuclear two point correlation functions on a quantum computer",
+    "named_authors": "A.~Baroni, J.~Carlson, R.~Gupta, A.~C.~Y.~Li, G.~N.~Perdue, A.~Roggero",
+    "extra_authors": "no",
+    "how_published": "arXiv 2111.02982",
+    "year": 2021
+  },
+  {
     "title": "Simulations of Quantum Circuits with Approximate Noise using qsim and Cirq",
     "named_authors": "S.~V.~Isakov, D.~Kafri, O.~Martin, C.~Vollgraff~Heidweiller, W.~Mruczkiewicz, M.~P.~Harrigan, N.~C.~Rubin, R.~Thomson, M.~Broughton, K.~Kissell, E.~Peters, E.~Gustafson, A.~C.~Y.~Li, H.~Lamm, G.~N.~Perdue, A.~K.~Ho, D.~Strain, S.~Boixo",
     "extra_authors": "no",
