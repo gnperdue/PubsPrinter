@@ -2,10 +2,34 @@
 
 [
   {
+    "title": "Measurement of inclusive charged-current $\\nu_\\mu$ cross sections as a function of muon kinematics at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV on hydrocarbon",
+    "named_authors": "D.~Ruterbories",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. D 104, No. 9",
+    "year": 2021
+  },
+  {
     "title": "Nuclear two point correlation functions on a quantum computer",
     "named_authors": "A.~Baroni, J.~Carlson, R.~Gupta, A.~C.~Y.~Li, G.~N.~Perdue, A.~Roggero",
     "extra_authors": "no",
     "how_published": "arXiv 2111.02982",
+    "year": 2021
+  },
+  {
+    "title": "Constraining the NuMI neutrino flux using inverse muon decay reactions in MINERvA",
+    "named_authors": "D.~Ruterbories",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. D 104, 092010",
+    "year": 2021
+  },
+  {
+    "title": "Exploring Neutrino-Nucleus Interactions in the GeV Regime using MINERvA",
+    "named_authors": "X.-G.~Lu",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "The European Physical Journal Special Topics",
     "year": 2021
   },
   {
@@ -57,35 +81,11 @@
     "year": 2021
   },
   {
-    "title": "Exploring Neutrino-Nucleus Interactions in the GeV Regime using MINERvA",
-    "named_authors": "X.-G.~Lu",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 2107.02064",
-    "year": 2021
-  },
-  {
-    "title": "Constraining the NuMI neutrino flux using inverse muon decay reactions in MINERvA",
-    "named_authors": "D.~Ruterbories",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 2107.01059",
-    "year": 2021
-  },
-  {
     "title": "Neutral pion reconstruction using machine learning in the MINERvA experiment at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV",
     "named_authors": "A.~Ghosh",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "JINST 16 P07060",
-    "year": 2021
-  },
-  {
-    "title": "Measurement of inclusive charged-current $\\nu_\\mu$ cross sections as a function of muon kinematics at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV on hydrocarbon",
-    "named_authors": "D.~Ruterbories",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 2106.16210",
     "year": 2021
   },
   {
