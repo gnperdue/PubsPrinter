@@ -2,6 +2,13 @@
 
 [
   {
+    "title": "DeepAdversaries: Examining the Robustness of Deep Learning Models for Galaxy Morphology Classification",
+    "named_authors": "A.~Ciprijanovic, D.~Kafkes, G.~F.~Snyder, F.~J.~Sanchez, G.~N.~Perdue, K.~Pedro, B.~Nord, S.~Madireddy, S.~M.~Wild",
+    "extra_authors": "no",
+    "how_published": "arXiv 2112.14299",
+    "year": 2021
+  },
+  {
     "title": "Measurement of inclusive charged-current $\\nu_\\mu$ cross sections as a function of muon kinematics at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV on hydrocarbon",
     "named_authors": "D.~Ruterbories",
     "extra_authors": "yes",
