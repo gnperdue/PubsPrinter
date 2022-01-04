@@ -2,6 +2,13 @@
 
 [
   {
+    "title": "Noise-aware qubit assignment on NISQ hardware using simulated annealing and Loschmidt Echoes",
+    "named_authors": "E.~Peters, P.~Shyamsundar, A.~C.~Y.~Li, G.~Perdue",
+    "extra_authors": "no",
+    "how_published": "arXiv 2201.00445",
+    "year": 2022
+  },
+  {
     "title": "DeepAdversaries: Examining the Robustness of Deep Learning Models for Galaxy Morphology Classification",
     "named_authors": "A.~Ciprijanovic, D.~Kafkes, G.~F.~Snyder, F.~J.~Sanchez, G.~N.~Perdue, K.~Pedro, B.~Nord, S.~Madireddy, S.~M.~Wild",
     "extra_authors": "no",
