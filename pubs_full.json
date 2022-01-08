@@ -28,6 +28,12 @@
     "year": 2021
   },
   {
+    "title": "Machine learning of high dimensional data on a noisy quantum processor",
+    "named_authors": "E.~Peters, J.~Caldeira, A.~Ho, S.~Leichenauer, M.~Mohseni, H.~Neven, P.~Spentzouris, D.~Strain, G.~N.~Perdue",
+    "how_published": "npj Quantum Information 7, Article number: 161",
+    "year": 2021
+  },
+  {
     "title": "Constraining the NuMI neutrino flux using inverse muon decay reactions in MINERvA",
     "named_authors": "D.~Ruterbories",
     "extra_authors": "yes",
@@ -123,12 +129,6 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "arXiv 2103.08677",
-    "year": 2021
-  },
-  {
-    "title": "Machine learning of high dimensional data on a noisy quantum processor",
-    "named_authors": "E.~Peters, J.~Caldeira, A.~Ho, S.~Leichenauer, M.~Mohseni, H.~Neven, P.~Spentzouris, D.~Strain, G.~N.~Perdue",
-    "how_published": "arXiv 2101.09581",
     "year": 2021
   },
   {
