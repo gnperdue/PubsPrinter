@@ -4,14 +4,12 @@
   {
     "title": "Noise-aware qubit assignment on NISQ hardware using simulated annealing and Loschmidt Echoes",
     "named_authors": "E.~Peters, P.~Shyamsundar, A.~C.~Y.~Li, G.~Perdue",
-    "extra_authors": "no",
     "how_published": "arXiv 2201.00445",
     "year": 2022
   },
   {
     "title": "DeepAdversaries: Examining the Robustness of Deep Learning Models for Galaxy Morphology Classification",
     "named_authors": "A.~Ciprijanovic, D.~Kafkes, G.~F.~Snyder, F.~J.~Sanchez, G.~N.~Perdue, K.~Pedro, B.~Nord, S.~Madireddy, S.~M.~Wild",
-    "extra_authors": "no",
     "how_published": "arXiv 2112.14299",
     "year": 2021
   },
@@ -26,7 +24,6 @@
   {
     "title": "Nuclear two point correlation functions on a quantum computer",
     "named_authors": "A.~Baroni, J.~Carlson, R.~Gupta, A.~C.~Y.~Li, G.~N.~Perdue, A.~Roggero",
-    "extra_authors": "no",
     "how_published": "arXiv 2111.02982",
     "year": 2021
   },
@@ -49,7 +46,6 @@
   {
     "title": "Simulations of Quantum Circuits with Approximate Noise using qsim and Cirq",
     "named_authors": "S.~V.~Isakov, D.~Kafri, O.~Martin, C.~Vollgraff~Heidweiller, W.~Mruczkiewicz, M.~P.~Harrigan, N.~C.~Rubin, R.~Thomson, M.~Broughton, K.~Kissell, E.~Peters, E.~Gustafson, A.~C.~Y.~Li, H.~Lamm, G.~N.~Perdue, A.~K.~Ho, D.~Strain, S.~Boixo",
-    "extra_authors": "no",
     "how_published": "arXiv 2111.02396",
     "year": 2021
   },
@@ -70,7 +66,6 @@
   {
     "title": "Large scale multi-node simulations of Z2 gauge theory quantum circuits using Google Cloud Platform",
     "named_authors": "E.~Gustafson, B.~Holzman, J.~Kowalkowski, H.~Lamm, A.~C.~Y.~Li, G.~N.~Perdue, S.~Boixo, S.~V.~Isakov, O.~Martin, C.~Volgradd~Heidweiller, J.~Beall, M.~Ganahl, G.~Vidal",
-    "extra_authors": "no",
     "how_published": "arXiv 2110.07482",
     "year": 2021
   },
@@ -90,7 +85,7 @@
   },
   {
     "title": "Quantum simulation of $\\phi^4$ theories in qudit systems",
-    "named_authors": "D.~M.~Kurkcuoglu, M.~S.~Alam, A.~C.~Y.~Li, A.~Macridin, G.~N.~Perdue",
+    "named_authors": "D.~M.~Kurkcuoglu, M.~S.~Alam, J.~A.~Job, A.~C.~Y.~Li, A.~Macridin, G.~N.~Perdue, S.~Providence",
     "how_published": "arXiv 2108.13357",
     "year": 2021
   },
