@@ -2,6 +2,14 @@
 
 [
   {
+    "title": "Vertex finding in neutrino-nucleus interaction: A Model Architecture Comparison",
+    "named_authors": "F.~Akbar, A.~Ghosh, S.~Young",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "arXiv 2201.02523",
+    "year": 2022
+  },
+  {
     "title": "Noise-aware qubit assignment on NISQ hardware using simulated annealing and Loschmidt Echoes",
     "named_authors": "E.~Peters, P.~Shyamsundar, A.~C.~Y.~Li, G.~Perdue",
     "how_published": "arXiv 2201.00445",
