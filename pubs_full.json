@@ -2,6 +2,12 @@
 
 [
   {
+    "title": "Frontiers in computing for artificial intelligence",
+    "named_authors": "T.~S.~Humble, G.~N.~Perdue, F.~Fahim, H.~Lamm, M.~Schramm",
+    "how_published": "JINST 17 C03037",
+    "year": 2022
+  },  
+  {
     "title": "Simultaneous measurement of proton and lepton kinematics in quasielastic-like $\\nu_{\\mu}$-hydrocarbon interactions from 2 to 20 GeV",
     "named_authors": "D.~Ruterbories",
     "extra_authors": "yes",
