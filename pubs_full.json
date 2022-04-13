@@ -2,6 +2,12 @@
 
 [
   {
+    "title": "Fermionic approach to variational quantum simulation of Kitaev spin models",
+    "named_authors": "A.~Jahin, A.~C.~Y.~Li, T.~Iadecola, P.~P.~Orth, G.~N.~Perdue, A.~Macridin, M.~S.~Alam, N.~M.~Tubman",
+    "how_published": "arXiv 2204.05322",
+    "year": 2022
+  },  
+  {
     "title": "Frontiers in computing for artificial intelligence",
     "named_authors": "T.~S.~Humble, G.~N.~Perdue, F.~Fahim, H.~Lamm, M.~Schramm",
     "how_published": "JINST 17 C03037",
