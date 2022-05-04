@@ -2,6 +2,12 @@
 
 [
   {
+    "title": "Quantum computing hardware for HEP algorithms and sensing",
+    "named_authors": "M.~S.~Alam~\\emph{et~al}",
+    "how_published": "arXiv 2204.08605",
+    "year": 2022
+  },  
+  {
     "title": "Fermionic approach to variational quantum simulation of Kitaev spin models",
     "named_authors": "A.~Jahin, A.~C.~Y.~Li, T.~Iadecola, P.~P.~Orth, G.~N.~Perdue, A.~Macridin, M.~S.~Alam, N.~M.~Tubman",
     "how_published": "arXiv 2204.05322",
