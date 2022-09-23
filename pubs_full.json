@@ -8,6 +8,20 @@
     "year": 2022
   },
   {
+    "title": "Snowmass Computational Frontier: Topical Group Report on Quantum Computing",
+    "named_authors": "T.~S.~Humble, G.~N.~Perdue, M.~J.~Savage",
+    "how_published": "arXiv 2209.06786",
+    "year": 2022
+  },  
+  {
+    "title": "Improved constraint on the MINERvA medium energy neutrino flux using $\\bar{\\nu}e^{-} \\!\\rightarrow \\bar{\\nu}e^{-}$ data",
+    "named_authors": "L.~Zazueta",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "arXiv 2209.05540",
+    "year": 2022
+  },
+  {
     "title": "Fermionic approach to variational quantum simulation of Kitaev spin models",
     "named_authors": "A.~Jahin, A.~C.~Y.~Li, T.~Iadecola, P.~P.~Orth, G.~N.~Perdue, A.~Macridin, M.~S.~Alam, N.~M.~Tubman",
     "how_published": "Phys. Rev. A 106, 022434",
