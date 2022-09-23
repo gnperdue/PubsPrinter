@@ -1,5 +1,11 @@
 [
   {
+    "title": "DeepAdversaries: Examining the Robustness of Deep Learning Models for Galaxy Morphology Classification",
+    "named_authors": "A.~Ciprijanovic, D.~Kafkes, G.~F.~Snyder, F.~J.~Sanchez, G.~N.~Perdue, K.~Pedro, B.~Nord, S.~Madireddy, S.~M.~Wild",
+    "how_published": "Machine Learning: Science and Technology, Volume 3, Number 3",
+    "year": 2022
+  },
+  {
     "title": "Quantum computing hardware for HEP algorithms and sensing",
     "named_authors": "M.~S.~Alam~\\emph{et~al}",
     "how_published": "arXiv 2204.08605",
@@ -38,12 +44,6 @@
     "named_authors": "E.~Peters, P.~Shyamsundar, A.~C.~Y.~Li, G.~Perdue",
     "how_published": "arXiv 2201.00445",
     "year": 2022
-  },
-  {
-    "title": "DeepAdversaries: Examining the Robustness of Deep Learning Models for Galaxy Morphology Classification",
-    "named_authors": "A.~Ciprijanovic, D.~Kafkes, G.~F.~Snyder, F.~J.~Sanchez, G.~N.~Perdue, K.~Pedro, B.~Nord, S.~Madireddy, S.~M.~Wild",
-    "how_published": "arXiv 2112.14299",
-    "year": 2021
   },
   {
     "title": "Measurement of inclusive charged-current $\\nu_\\mu$ cross sections as a function of muon kinematics at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV on hydrocarbon",
