@@ -1,5 +1,11 @@
 [
   {
+    "title": "Fermionic approach to variational quantum simulation of Kitaev spin models",
+    "named_authors": "A.~Jahin, A.~C.~Y.~Li, T.~Iadecola, P.~P.~Orth, G.~N.~Perdue, A.~Macridin, M.~S.~Alam, N.~M.~Tubman",
+    "how_published": "Phys. Rev. A 106, 022434",
+    "year": 2022
+  },  
+  {
     "title": "Neural network accelerator for quantum control",
     "named_authors": "D.~Xu, A.~B.~Ozguler, G.~Di~Guglielmo, N.~Tran, G.~N.~Perdue, L.~Carloni, F.~Fahim",
     "how_published": "arXiv 2208.02645",
@@ -31,12 +37,6 @@
     "title": "Quantum computing hardware for HEP algorithms and sensing",
     "named_authors": "M.~S.~Alam~\\emph{et~al}",
     "how_published": "arXiv 2204.08605",
-    "year": 2022
-  },  
-  {
-    "title": "Fermionic approach to variational quantum simulation of Kitaev spin models",
-    "named_authors": "A.~Jahin, A.~C.~Y.~Li, T.~Iadecola, P.~P.~Orth, G.~N.~Perdue, A.~Macridin, M.~S.~Alam, N.~M.~Tubman",
-    "how_published": "arXiv 2204.05322",
     "year": 2022
   },  
   {
