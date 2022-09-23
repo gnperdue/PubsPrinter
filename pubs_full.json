@@ -1,5 +1,13 @@
 [
   {
+    "title": "Simultaneous measurement of proton and lepton kinematics in quasielastic-like $\\nu_{\\mu}$-hydrocarbon interactions from 2 to 20 GeV",
+    "named_authors": "D.~Ruterbories",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. Lett. 129, 021803",
+    "year": 2022
+  },  
+  {
     "title": "DeepAdversaries: Examining the Robustness of Deep Learning Models for Galaxy Morphology Classification",
     "named_authors": "A.~Ciprijanovic, D.~Kafkes, G.~F.~Snyder, F.~J.~Sanchez, G.~N.~Perdue, K.~Pedro, B.~Nord, S.~Madireddy, S.~M.~Wild",
     "how_published": "Machine Learning: Science and Technology, Volume 3, Number 3",
@@ -21,14 +29,6 @@
     "title": "Frontiers in computing for artificial intelligence",
     "named_authors": "T.~S.~Humble, G.~N.~Perdue, F.~Fahim, H.~Lamm, M.~Schramm",
     "how_published": "JINST 17 C03037",
-    "year": 2022
-  },  
-  {
-    "title": "Simultaneous measurement of proton and lepton kinematics in quasielastic-like $\\nu_{\\mu}$-hydrocarbon interactions from 2 to 20 GeV",
-    "named_authors": "D.~Ruterbories",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 2203.08022",
     "year": 2022
   },  
   {
