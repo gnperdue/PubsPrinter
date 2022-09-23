@@ -1,5 +1,13 @@
 [
   {
+    "title": "Measurement of inclusive charged-current $\\nu_{\\mu}$ scattering on hydrocarbon at $E_{\\nu} \\sim 6$ GeV with low three-momentum transfer",
+    "named_authors": "M.~V.~Ascencio",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. D 106, 032001",
+    "year": 2022
+  },
+  {
     "title": "Simultaneous measurement of proton and lepton kinematics in quasielastic-like $\\nu_{\\mu}$-hydrocarbon interactions from 2 to 20 GeV",
     "named_authors": "D.~Ruterbories",
     "extra_authors": "yes",
@@ -85,14 +93,6 @@
     "title": "Simulations of Quantum Circuits with Approximate Noise using qsim and Cirq",
     "named_authors": "S.~V.~Isakov, D.~Kafri, O.~Martin, C.~Vollgraff~Heidweiller, W.~Mruczkiewicz, M.~P.~Harrigan, N.~C.~Rubin, R.~Thomson, M.~Broughton, K.~Kissell, E.~Peters, E.~Gustafson, A.~C.~Y.~Li, H.~Lamm, G.~N.~Perdue, A.~K.~Ho, D.~Strain, S.~Boixo",
     "how_published": "arXiv 2111.02396",
-    "year": 2021
-  },
-  {
-    "title": "Measurement of inclusive charged-current $\\nu_{\\mu}$ scattering on hydrocarbon at $E_{\\nu} \\sim 6$ GeV with low three-momentum transfer",
-    "named_authors": "M.~V.~Ascencio",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 2110.13372",
     "year": 2021
   },
   {
