@@ -1,5 +1,19 @@
 [
   {
+    "title": "The Future of High Energy Physics Software and Computing",
+    "named_authors": "V.~D.~Elvira",
+    "extra_authors": "yes",
+    "collaboration": "The Snowmass Computing Frontier Topical Conveners",
+    "how_published": "arXiv 2210.05822",
+    "year": 2022
+  },
+  {
+    "title": "Binary classification with noisy quantum circuits and noisy quantum data",
+    "named_authors": "Y.~Lee, D.~M.~Kurkcuoglu, G.~N.~Perdue",
+    "how_published": "arXiv 2211.06492",
+    "year": 2022
+  },
+  {
     "title": "Semi-Supervised Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection",
     "named_authors": "A.~Ciprijanovic, A.~Lewis, G.~F.~Snyder, K.~Pedro, S.~Madireddy, B.~Nord, G.~N.~Perdue, S.~M.~Wild",
     "how_published": "arXiv 2211.00677",
