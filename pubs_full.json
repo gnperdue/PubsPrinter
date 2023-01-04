@@ -1,5 +1,11 @@
 [
   {
+    "title": "Qubit Assignment Using Time Reversal",
+    "named_authors": "E.~Peters, P.~Shyamsundar, A.~C.~Y.~Li, G.~Perdue",
+    "how_published": "PRX Quantum 3, 040333",
+    "year": 2022
+  },
+  {
     "title": "Quantm circuit fidelity estimation using machine learning",
     "named_authors": "A.~Vadali, R.~Kshirsagar, P.~Shyamsundar, G.~N.~Perdue",
     "how_published": "arXiv 2212.00677",
@@ -99,12 +105,6 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "arXiv 2201.02523",
-    "year": 2022
-  },
-  {
-    "title": "Noise-aware qubit assignment on NISQ hardware using simulated annealing and Loschmidt Echoes",
-    "named_authors": "E.~Peters, P.~Shyamsundar, A.~C.~Y.~Li, G.~Perdue",
-    "how_published": "arXiv 2201.00445",
     "year": 2022
   },
   {
