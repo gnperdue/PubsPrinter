@@ -8,6 +8,12 @@
     "year": 2023
   },
   {
+    "title": "Benchmarking variational quantum eigensolvers for the square-octagon-lattice Kitaev model",
+    "named_authors": "A.~C.~Y.~Li, M.~S.~Alam, T.~Iadecola, A.~Jahin, D.~M.~Kurkcuoglu, R.~Li, P.~Orth, A.~B.~Ozguler, G.~N.~Perdue",
+    "how_published": "Phys. Rev. Research 5, 033071",
+    "year": 2023
+  },
+  {
     "title": "Simultaneous measurement of muon neutrino $\\nu_{\\mu}$ charged-current single $\\pi^+$ production in CH, C, H$_2$O, Fe, and Pb targets in MINERvA",
     "named_authors": "A.~Berceillie",
     "extra_authors": "yes",
@@ -219,12 +225,6 @@
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "JINST 16 P08068",
-    "year": 2021
-  },
-  {
-    "title": "Benchmarking variational quantum eigensolvers for the square-octagon-lattice Kitaev model",
-    "named_authors": "A.~C.~Y.~Li, M.~S.~Alam, T.~Iadecola, A.~Jahin, D.~M.~Kurkcuoglu, R.~Li, P.~Orth, A.~B.~Ozguler, G.~N.~Perdue",
-    "how_published": "arXiv 2108.13375 (accepted to Physical Review Research, April 2023)",
     "year": 2021
   },
   {
