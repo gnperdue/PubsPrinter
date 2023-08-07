@@ -1,12 +1,42 @@
 [
   {
-    "title": "Simultaneous measurement of muon neutrino quasielatic-like cross sections on CH, C, water, Fe, and Pb as a function of muon kinematics at MINERvA",
+    "title": "Simultaneous measurement of muon neutrino $\\nu_{\\mu}$ charged-current single $\\pi^+$ production in CH, C, H$_2$O, Fe, and Pb targets in MINERvA",
+    "named_authors": "A.~Berceillie",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. Lett. 131, 011801",
+    "year": 2023
+  },
+  {
+    "title": "Simultaneous Measurement of $\\nu_{\\mu}$ Quasielaticlike Cross Sections on CH, C, H$_{2}$O, Fe, and Pb as a Function of Muon Kinematics at MINERvA",
     "named_authors": "J.~Kleykamp",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 2301.02272",
+    "how_published": "Phys. Rev. Lett. 130, 161801",
     "year": 2023
   },
+  {
+    "title": "DeepAstroUDA: Semi-Supervised Universal Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection",
+    "named_authors": "A.~Ciprijanovic, A.~Lewis, K.~Pedro, S.~Madireddy, B.~Nord, G.~N.~Perdue, S.~M.~Wild",
+    "how_published": "arXiv 2302.02005 (accepted to Machine Learing: Science and Technology, April 2023)",
+    "year": 2023
+  },
+  {
+    "title": "Measurement of the axial vector form factor from antineutrino-proton scattering",
+    "named_authors": "T.~Cai",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Nature 614, 48-53",
+    "year": 2023
+  },
+  {
+    "title": "Improved constraint on the MINERvA medium energy neutrino flux using $\\bar{\\nu}e^{-} \\!\\rightarrow \\bar{\\nu}e^{-}$ data",
+    "named_authors": "L.~Zazueta",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. D 107, 012001",
+    "year": 2023
+  },  
   {
     "title": "Qubit Assignment Using Time Reversal",
     "named_authors": "E.~Peters, P.~Shyamsundar, A.~C.~Y.~Li, G.~Perdue",
@@ -17,6 +47,14 @@
     "title": "Quantm circuit fidelity estimation using machine learning",
     "named_authors": "A.~Vadali, R.~Kshirsagar, P.~Shyamsundar, G.~N.~Perdue",
     "how_published": "arXiv 2212.00677",
+    "year": 2022
+  },
+  {
+    "title": "High-Statistics Measurement of Antineutrino Quasielatic-like scattering at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV on a Hydrocarbon Target",
+    "named_authors": "A.~Bashyal",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "arXiv 2211.10402",
     "year": 2022
   },
   {
@@ -48,27 +86,11 @@
     "year": 2022
   },
   {
-    "title": "Simultaneous measurement of muon neutrino $\\nu_{\\mu}$ charged-current single $\\pi^+$ production in CH, C, H$_2$O, Fe, and Pb targets in MINERvA",
-    "named_authors": "A.~Berceillie",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 2209.07852",
-    "year": 2022
-  },
-  {
     "title": "Snowmass Computational Frontier: Topical Group Report on Quantum Computing",
     "named_authors": "T.~S.~Humble, G.~N.~Perdue, M.~J.~Savage",
     "how_published": "arXiv 2209.06786",
     "year": 2022
   },  
-  {
-    "title": "Improved constraint on the MINERvA medium energy neutrino flux using $\\bar{\\nu}e^{-} \\!\\rightarrow \\bar{\\nu}e^{-}$ data",
-    "named_authors": "L.~Zazueta",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 2209.05540",
-    "year": 2022
-  },
   {
     "title": "Fermionic approach to variational quantum simulation of Kitaev spin models",
     "named_authors": "A.~Jahin, A.~C.~Y.~Li, T.~Iadecola, P.~P.~Orth, G.~N.~Perdue, A.~Macridin, M.~S.~Alam, N.~M.~Tubman",
@@ -89,6 +111,14 @@
     "how_published": "Phys. Rev. D 106, 032001",
     "year": 2022
   },
+  {
+    "title": "Neutrino-nucleus CC0$\\pi$ cross-section tuning in GENIE v3",
+    "named_authors": "J.~Tena-Vidal",
+    "extra_authors": "yes",
+    "collaboration": "The GENIE Collaboration",
+    "how_published": "Phys. Rev. D 106, 112001",
+    "year": 2022
+  },  
   {
     "title": "Simultaneous measurement of proton and lepton kinematics in quasielastic-like $\\nu_{\\mu}$-hydrocarbon interactions from 2 to 20 GeV",
     "named_authors": "D.~Ruterbories",
@@ -124,17 +154,17 @@
     "year": 2022
   },
   {
+    "title": "Nuclear two point correlation functions on a quantum computer",
+    "named_authors": "A.~Baroni, J.~Carlson, R.~Gupta, A.~C.~Y.~Li, G.~N.~Perdue, A.~Roggero",
+    "how_published": "Phys. Rev. D 105, 074503",
+    "year": 2022
+  },
+  {
     "title": "Measurement of inclusive charged-current $\\nu_\\mu$ cross sections as a function of muon kinematics at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV on hydrocarbon",
     "named_authors": "D.~Ruterbories",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "Phys. Rev. D 104, No. 9",
-    "year": 2021
-  },
-  {
-    "title": "Nuclear two point correlation functions on a quantum computer",
-    "named_authors": "A.~Baroni, J.~Carlson, R.~Gupta, A.~C.~Y.~Li, G.~N.~Perdue, A.~Roggero",
-    "how_published": "arXiv 2111.02982",
     "year": 2021
   },
   {
@@ -188,7 +218,7 @@
   {
     "title": "Benchmarking variational quantum eigensolvers for the square-octagon-lattice Kitaev model",
     "named_authors": "A.~C.~Y.~Li, M.~S.~Alam, T.~Iadecola, A.~Jahin, D.~M.~Kurkcuoglu, R.~Li, P.~Orth, A.~B.~Ozguler, G.~N.~Perdue",
-    "how_published": "arXiv 2108.13375",
+    "how_published": "arXiv 2108.13375 (accepted to Physical Review Research, April 2023)",
     "year": 2021
   },
   {
