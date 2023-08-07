@@ -16,6 +16,12 @@
     "year": 2023
   },
   {
+    "title": "Perturbative readout error mitigation for near term quantum computers",
+    "named_authors": "Evan~Peters,~Andy~Li,~Gabriel~N.~Perdue",
+    "how_published": "Phys. Rev. A 107, 062426",
+    "year": 2023
+  },
+  {
     "title": "Simultaneous Measurement of $\\nu_{\\mu}$ Quasielaticlike Cross Sections on CH, C, H$_{2}$O, Fe, and Pb as a Function of Muon Kinematics at MINERvA",
     "named_authors": "J.~Kleykamp",
     "extra_authors": "yes",
@@ -239,12 +245,6 @@
     "title": "DeepMerge II: Building Robust Deep Learning Algorithms for Merging Galaxy Identification Across Domains",
     "named_authors": "A.~Ciprijanovic, D.~Kafkes, K.~Downey, S.~Jenkins, G.~N.~Perdue, S.~Madireddy, T.~Johnston, G.~F.~Snyder, B.~Nord",
     "how_published": "MNRAS 506, Issue 1, pages 677-691",
-    "year": 2021
-  },
-  {
-    "title": "Perturbative readout error mitigation for near term quantum computers",
-    "named_authors": "Evan~Peters,~Andy~Li,~Gabriel~N.~Perdue",
-    "how_published": "arXiv 2105.08161",
     "year": 2021
   },
   {
