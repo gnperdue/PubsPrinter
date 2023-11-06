@@ -1,5 +1,13 @@
 [
   {
+    "title": "High-Statistics Measurement of Antineutrino Quasielatic-like scattering at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV on a Hydrocarbon Target",
+    "named_authors": "A.~Bashyal",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. D 108, 032018",
+    "year": 2023
+  },
+  {
     "title": "Neutrino-induced coherent $\\pi^{+}$ production in C, CH, Fe, and Pb at $\\langle E_{\\nu} \\rangle \\sim 6$",
     "named_authors": "M.~A.~Ramirez",
     "extra_authors": "yes",
@@ -56,7 +64,7 @@
     "collaboration": "The MINERvA Collaboration",
     "how_published": "Phys. Rev. D 107, 012001",
     "year": 2023
-  },  
+  },
   {
     "title": "Qubit Assignment Using Time Reversal",
     "named_authors": "E.~Peters, P.~Shyamsundar, A.~C.~Y.~Li, G.~Perdue",
@@ -67,14 +75,6 @@
     "title": "Quantm circuit fidelity estimation using machine learning",
     "named_authors": "A.~Vadali, R.~Kshirsagar, P.~Shyamsundar, G.~N.~Perdue",
     "how_published": "arXiv 2212.00677",
-    "year": 2022
-  },
-  {
-    "title": "High-Statistics Measurement of Antineutrino Quasielatic-like scattering at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV on a Hydrocarbon Target",
-    "named_authors": "A.~Bashyal",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 2211.10402",
     "year": 2022
   },
   {
@@ -102,13 +102,13 @@
     "named_authors": "T.~S.~Humble, G.~N.~Perdue, M.~J.~Savage",
     "how_published": "arXiv 2209.06786",
     "year": 2022
-  },  
+  },
   {
     "title": "Fermionic approach to variational quantum simulation of Kitaev spin models",
     "named_authors": "A.~Jahin, A.~C.~Y.~Li, T.~Iadecola, P.~P.~Orth, G.~N.~Perdue, A.~Macridin, M.~S.~Alam, N.~M.~Tubman",
     "how_published": "Phys. Rev. A 106, 022434",
     "year": 2022
-  },  
+  },
   {
     "title": "Neural network accelerator for quantum control",
     "named_authors": "D.~Xu, A.~B.~Ozguler, G.~Di~Guglielmo, N.~Tran, G.~N.~Perdue, L.~Carloni, F.~Fahim",
@@ -130,7 +130,7 @@
     "collaboration": "The GENIE Collaboration",
     "how_published": "Phys. Rev. D 106, 112001",
     "year": 2022
-  },  
+  },
   {
     "title": "Simultaneous measurement of proton and lepton kinematics in quasielastic-like $\\nu_{\\mu}$-hydrocarbon interactions from 2 to 20 GeV",
     "named_authors": "D.~Ruterbories",
@@ -138,7 +138,7 @@
     "collaboration": "The MINERvA Collaboration",
     "how_published": "Phys. Rev. Lett. 129, 021803",
     "year": 2022
-  },  
+  },
   {
     "title": "DeepAdversaries: Examining the Robustness of Deep Learning Models for Galaxy Morphology Classification",
     "named_authors": "A.~Ciprijanovic, D.~Kafkes, G.~F.~Snyder, F.~J.~Sanchez, G.~N.~Perdue, K.~Pedro, B.~Nord, S.~Madireddy, S.~M.~Wild",
@@ -150,13 +150,13 @@
     "named_authors": "M.~S.~Alam~\\emph{et~al}",
     "how_published": "arXiv 2204.08605",
     "year": 2022
-  },  
+  },
   {
     "title": "Frontiers in computing for artificial intelligence",
     "named_authors": "T.~S.~Humble, G.~N.~Perdue, F.~Fahim, H.~Lamm, M.~Schramm",
     "how_published": "JINST 17 C03037",
     "year": 2022
-  },  
+  },
   {
     "title": "Vertex finding in neutrino-nucleus interaction: A Model Architecture Comparison",
     "named_authors": "F.~Akbar, A.~Ghosh, S.~Young",
