@@ -1,17 +1,17 @@
 [
   {
-    "title": "$\\texttt{qec\\_code\\_sim}$: An open-source Python framework for estimating the effectiveness of quantum-error correcting codes on superconducting qubits",
-    "named_authors": "S.~Lopez, J.~A.~Plascencia, G.~N.~Perdue",
-    "how_published": "arXiv 2402.06745",
-    "year": 2024
-  },
-  {
     "title": "Measurement of Electron Neutrino and Antineutrino Cross Sections at Low Momentum Transfer",
     "named_authors": "S.~Henry, H.~Su",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 2312.16631",
+    "how_published": "Phys. Rev. D 109, 092008",
     "year": 2023
+  },
+  {
+    "title": "$\\texttt{qec\\_code\\_sim}$: An open-source Python framework for estimating the effectiveness of quantum-error correcting codes on superconducting qubits",
+    "named_authors": "S.~Lopez, J.~A.~Plascencia, G.~N.~Perdue",
+    "how_published": "arXiv 2402.06745",
+    "year": 2024
   },
   {
     "title": "Measurement of the multineutron $\\nu_{\\mu}$ charged current differential cross section at low available energy on hydrocarbon",
