@@ -1,5 +1,17 @@
 [
   {
+    "title": "Inference of response functions with the help of machine learning algorithms",
+    "named_authors": "D.~M.~Kurkcuoglu, A.~Roggero, G.~N.~Perdue, R.~Gupta",
+    "how_published": "arXiv 2501.10583",
+    "year": 2025
+  },
+  {
+    "title": "Benchmarking the algorithmic reach of a high-Q cavity qudit",
+    "named_authors": "N.~Bornman, T.~Roy, J.~A.~Job, N.~Anand, G.~N.~Perdue, S.~Zorzetti, M.~S.~Alam",
+    "how_published": "arXiv 2408.13317",
+    "year": 2024
+  },
+  {
     "title": "First combined tuning on transverse kinematic imbalance data with and without pion production constraints",
     "named_authors": "W.~Li",
     "extra_authors": "yes",
