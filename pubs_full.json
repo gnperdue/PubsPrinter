@@ -1,5 +1,13 @@
 [
   {
+    "title": "Measurement of the A dependence of the muon neutrino charged-current quasielastic-like cross section as a function of muon and proton kinematics at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV ",
+    "named_authors": "J.~Kleykamp",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "arXiv 2503.15047",
+    "year": 2025
+  },
+  {
     "title": "End-to-end workflow for machine learning-based qubit readout with QICK and hls4ml",
     "named_authors": "G.~Di~Guglielmo, B.~Du, J.~Campos, A.~Boltasseva, A.~V.~Dixit, F.~Fahim, Z.~Kudyshev, S.~Lopez, R.~Ma, G.~N.~Perdue, N.~Tran, O.~Yesilyurt, D.~Bowring",
     "how_published": "arXiv 2501.14663",
