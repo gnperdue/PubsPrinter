@@ -30,7 +30,8 @@ def write_latex(pubs):
         print("\\section{Publications}\n", file=outf)
         print("\\begin{enumerate}\n", file=outf)
 
-        for pub in pubs:
+        for i, pub in enumerate(pubs):
+            print("adding publication", i+1, "of", len(pubs))
             latex_print(pub, outf)
 
         print("\\end{enumerate}\n", file=outf)
@@ -38,7 +39,7 @@ def write_latex(pubs):
 
 def latex_print(pub, outf=None):
 
-    print("\item", file=outf)
+    print("\\item", file=outf)
 
     if "title" in pub:
         print("{\\bf ``", pub["title"], "''}", sep="", file=outf)
