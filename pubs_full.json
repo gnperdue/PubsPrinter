@@ -1,18 +1,24 @@
 [
   {
+    "title": "Measurement of the $A$ dependence of the $\\nu_{\\mu}$ charged-current quasielasticlike cross section as a function of muon and proton kinematics at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV",
+    "named_authors": "J.~Kleykamp",
+    "extra_authors": "yes",
+    "collaboration": "The MINERvA Collaboration",
+    "how_published": "Phys. Rev. D 112, 052005",
+    "year": 2025
+  },
+  {
+    "title": "Fast Machine Learning for Quantum Control of Microwave Qudits on Edge Hardware",
+    "named_authors": "F.~Sanders, G.~Agarwal, L.~Carloni, G.~Di~Guglielmo, A.~C.~Y.~Li, G.~N.~Perdue",
+    "how_published": "arXiv 2506.03323",
+    "year": 2025
+  },
+  {
     "title": "Measurement of charged-current $\\nu_{\\mu}$ and $\\bar{\\nu_{\\mu}}$ cross sections on hydrocarbon in a shallow inelastic scattering region",
     "named_authors": "A.~Lozano",
     "extra_authors": "yes",
     "collaboration": "The MINERvA Collaboration",
     "how_published": "arXiv 2503.20043",
-    "year": 2025
-  },
-  {
-    "title": "Measurement of the A dependence of the muon neutrino charged-current quasielastic-like cross section as a function of muon and proton kinematics at $\\langle E_{\\nu} \\rangle \\sim 6$ GeV ",
-    "named_authors": "J.~Kleykamp",
-    "extra_authors": "yes",
-    "collaboration": "The MINERvA Collaboration",
-    "how_published": "arXiv 2503.15047",
     "year": 2025
   },
   {
