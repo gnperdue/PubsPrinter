@@ -8,6 +8,12 @@
     "year": 2025
   },
   {
+    "title": "Inference of response functions with the help of machine learning algorithms",
+    "named_authors": "D.~M.~Kurkcuoglu, A.~Roggero, G.~N.~Perdue, R.~Gupta",
+    "how_published": "Phys. Rev. A 112, 062425",
+    "year": 2025
+  },
+  {
     "title": "Boosted decision tree reweighting of simulated neutrino interactions for $O(1)$ GeV neutrino cross-section measurements",
     "named_authors": "Z.~Lin",
     "extra_authors": "yes",
@@ -41,12 +47,6 @@
     "title": "End-to-end workflow for machine learning-based qubit readout with QICK and hls4ml",
     "named_authors": "G.~Di~Guglielmo, B.~Du, J.~Campos, A.~Boltasseva, A.~V.~Dixit, F.~Fahim, Z.~Kudyshev, S.~Lopez, R.~Ma, G.~N.~Perdue, N.~Tran, O.~Yesilyurt, D.~Bowring",
     "how_published": "arXiv 2501.14663",
-    "year": 2025
-  },
-  {
-    "title": "Inference of response functions with the help of machine learning algorithms",
-    "named_authors": "D.~M.~Kurkcuoglu, A.~Roggero, G.~N.~Perdue, R.~Gupta",
-    "how_published": "arXiv 2501.10583",
     "year": 2025
   },
   {
